@@ -2,6 +2,9 @@
 	width: 8em;
 	margin-top: 400px;
 	margin-left: 100px;
+	background-color: lightblue;
+	border: 5px solid darkgoldenrod;
+	border-radius: 20px 50px;
 }
 
 #casa {
